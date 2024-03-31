@@ -1,0 +1,1 @@
+This code file comprises of a backend server for a flutter application using firebase as the database and basically takes mail as an input and the name of the person and sends a customized mail of certificate to the attendee of the session
